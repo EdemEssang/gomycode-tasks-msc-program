@@ -1,1 +1,0 @@
-# gomycode-tasks-msc-program
