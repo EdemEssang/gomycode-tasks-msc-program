@@ -36,3 +36,8 @@ The project focuses on translating common problem types into effective control s
 - Use hash maps for fast grouping.
 - Sorting can be done with Array.prototype.sort() using custom compare functions.
 - Analyze operations using Big O notation.
+
+ #### How to execute the project:
+- fork the repo and clone to your local machine.
+- Save code [file](https://github.com/EdemEssang/gomycode-tasks-msc-program/blob/main/task-scheduling-system/taskScheduler.js) as taskScheduler.js
+- run using `node taskScheduler.js`
