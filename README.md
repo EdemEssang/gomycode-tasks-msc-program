@@ -1,0 +1,1 @@
+# This is a repo for for some of the projects done during the GOMYCODE  msc program.
