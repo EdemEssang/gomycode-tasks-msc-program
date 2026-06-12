@@ -3,7 +3,6 @@
  * Determines ticket price based on age using switch statement
  */
 
-// Version 1: Using switch with true (for range checking)
 function getTicketPrice(age) {
     // Validate input
     if (typeof age !== 'number' || isNaN(age) || age < 0) {
