@@ -76,7 +76,7 @@ MINIMUM SPANNING TREE (MST) RESULT
   1. Computer B <--2m--> Computer C
   2. Computer A <--3m--> Computer C
 
-💰 NETWORK STATISTICS:
+ NETWORK STATISTICS:
 ----------------------------------------
   Total Computers: 3
   Total Cables: 2
