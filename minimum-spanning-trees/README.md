@@ -192,7 +192,7 @@ MINIMUM SPANNING TREE (MST) USING PRIM'S ALGORITHM
   1. Computer A <--3m--> Computer C
   2. Computer B <--2m--> Computer C
 
-💰 NETWORK STATISTICS:
+ NETWORK STATISTICS:
 ----------------------------------------
   Total Computers: 3
   Total Cables: 2
