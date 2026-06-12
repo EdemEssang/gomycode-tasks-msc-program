@@ -66,3 +66,8 @@ Coding Requirements:
 - Trying to dequeue or extractMin from an empty queue or priority queue.
 - Inserting into a full array-based queue.
 - Searching or peeking from an empty data structure.
+
+- Steps to run the program
+  - fork the repo and clone to local repo.
+  - save file as queue-system.js
+  - run using `node queue-system.js`
